@@ -51,7 +51,7 @@ Spring JPA 프로젝트 아기자기
 
 
 
-# 📅 
+# 📅 아기자기 프로젝트 진행률
 아기자기 프론트 진행률
 ![baby_front](https://github.com/dev-Adward/baby-baby/assets/122762326/f5f210a4-60ba-4e35-b5cd-7cf9a07c71ea)
 
