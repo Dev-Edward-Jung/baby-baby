@@ -48,6 +48,7 @@ Spring JPA 프로젝트 아기자기
 - BootPay API를 통한 놀러가요 결제 구현
 
 # 🎈ERD
+![캡처](https://github.com/dev-Adward/baby-baby/assets/122762326/8ef166aa-117a-4879-aa98-a22a1ad38f07)
 
 
 
